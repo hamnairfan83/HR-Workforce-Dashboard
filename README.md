@@ -49,7 +49,6 @@ The HR Workforce Dashboard provides a detailed analysis of employee demographics
 ## 🛠 Tools Used
 
 - **Power BI**: Data modeling and visualization
-- **DAX**: Measures and calculated columns for custom KPIs
 - **Microsoft Bing Maps**: Office location plotting
 - **Key Influencer Visual**: For AI-driven attrition analysis
 
@@ -59,7 +58,7 @@ The HR Workforce Dashboard provides a detailed analysis of employee demographics
 
 - HR Analytics & People Insights
 - Dashboard Design & Data Storytelling
-- Data Modeling & DAX Formulas
+- Data Modeling 
 - Employee Demographic & Retention Analysis
 
 ---
